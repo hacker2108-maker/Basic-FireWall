@@ -1070,7 +1070,7 @@ static long fw_ioctl(struct file *file, unsigned int cmd, unsigned long arg)
 
 /* Module information */
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Hacker2108");
 MODULE_DESCRIPTION("Advanced Linux Kernel Firewall Module");
 MODULE_VERSION("1.0");
 
